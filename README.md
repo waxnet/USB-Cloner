@@ -22,7 +22,11 @@ You are free to contribute and fork this project as you wish.
 
 ### <p align="center"> Showcase Video </p>
 
-[![USB Cloner Showcase Video](https://img.youtube.com/vi/DyohTSYwAJw/maxresdefault.jpg)](https://youtu.be/DyohTSYwAJw)
+<p align="center">
+  <a href="https://youtu.be/DyohTSYwAJw">
+    <img src="https://github.com/waxnet/USB-Cloner/blob/main/images/showcase_cover.jpg?raw=true" width="800" alt="USB Cloner Showcase">
+  </a>
+</p>
 
 ---
 
