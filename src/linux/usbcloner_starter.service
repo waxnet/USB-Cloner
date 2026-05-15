@@ -1,0 +1,42 @@
+[Unit]
+Description=USBCloner Starter
+After=network.target
+
+[Service]
+ExecStart=/home/waxnet/usbcloner/bin/python /home/waxnet/usbcloner/src/main.py
+WorkingDirectory=/home/waxnet
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+########################################
+## ONCE SERVICE IS CREATED DO
+# sudo systemctl daemon-reexec
+# sudo systemctl daemon-reload
+
+## ENABLE
+# sudo systemctl enable usbcloner_starter.service
+
+## DISABLE
+# sudo systemctl disable usbcloner_starter.service
+
+## REMOVE
+# sudo rm /etc/systemd/system/myscript.service
+# sudo systemctl daemon-reload
+
+## START
+# sudo systemctl start usbcloner_starter.service
+
+## STOP
+# sudo systemctl stop usbcloner_starter.service
+
+## RESTART
+# sudo systemctl restart usbcloner_starter.service
+
+## CHECK IF WORKING
+# sudo systemctl status usbcloner_starter.service
+
+## LIVE LOGS
+# journalctl -u usbcloner_starter.service -f
+########################################

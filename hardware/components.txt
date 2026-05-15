@@ -1,0 +1,10 @@
+MAIN
+Screen: Waveshare 1.3inch OLED Display Hat 128x64 Pixels With Embedded Controller Communicating Via SPI Or I2C Interface Supports Raspberry Pi Series Boards And Jetson Nano
+SD Card: Sandisk 64 Gb Ultra Sdxc
+USB Module: Waveshare Ethernet/USB HUB HAT For Raspberry Pi Stable Wired Ethernet Connection With 1x RJ45 Ethernet Port And 3X USB Ports Compatible With USB2.0/1.1 Fits The Zero/Zero W/Zero WH
+Raspberry Pi: Waveshare Retrofited Raspberry Pi Zero 2 WH, 5 Times Faster 1GHz Quad-Core Arm Cortex-A53 CPU With WiFi Bluetooth 4.2 BLE With Pre-Solder Black Pinheader
+
+OTHER
+Spacers: GeeekPi 220PCS M2.5 Brass Spacers
+Heat Sink: ZkeeShop Raspberry Pi Zero 2 W Heat Sink
+Power Bank / Power Supply: whatever you want

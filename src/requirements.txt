@@ -1,0 +1,5 @@
+Pillow
+luma.oled
+RPi.GPIO
+pyudev
+psutil

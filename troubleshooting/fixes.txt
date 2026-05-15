@@ -1,0 +1,14 @@
+these are commands that you might
+need in case something doesnt work
+before blindly executing them i
+suggest a quick google search to
+verify that these are the commands
+that you actually need
+
+sudo apt install python3-rpi.gpio
+sudo apt install python3-spidev
+sudo apt install python3-dev libjpeg-dev zlib1g-dev
+
+if pip throws an error while installing
+the requirements at "luma.oled"
+create a python venv
