@@ -48,7 +48,7 @@ class USBManager:
                     "free" : usage.free
                 }
 
-        # not mounted → mount it
+        # mount if not mounted
         mountPoint = self._mount_if_needed(devNode)
         if mountPoint:
             usage = psutil.disk_usage(mountPoint)
